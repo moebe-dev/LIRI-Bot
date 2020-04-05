@@ -13,7 +13,7 @@ Download the "images" folder to visualize each command.
 This will allow you to better see how LIRI works with each given command. 
 
 
-## concert: 
+## concert:
 
 ![Screen shot](images/concert.png)
 
@@ -24,7 +24,7 @@ This will search the Bands in Town Artist Events API for an artist and render th
 -	Venue location
 -	Date of the Event (used moment to format this as "MM/DD/YYYY")
 
-## spotify: 
+## spotify:
 
 ![Screen shot](images/spotify.png)
 
@@ -34,7 +34,7 @@ This will show the following information about the song in your terminal/bash wi
 -	A preview link of the song from Spotify
 -	The album that the song is from
 
-## movie: 
+## movie:
 
 ![Screen shot](images/movie.png)
 
@@ -48,7 +48,7 @@ This will output the following information to your terminal/bash window:
 -	Plot of the movie.
 -	Actors in the movie.
 
-## random-file: 
+## random-file:
 
 ![Screen shot](images/random-file.png)
 
