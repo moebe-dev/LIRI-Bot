@@ -1,6 +1,6 @@
 ## LIRI-BOT (Language Interpretation and Recognition Interface)
 
-LIRI is a command line node app that takes in parameters and gives you back data using Nodejs, npm packages request and API's such as spotify, bands and OMDb.
+LIRI is a command-line node app that takes in parameters and gives you back data using Nodejs, npm packages request and APIs such as Spotify, Bands, and OMDb.
 
 # Actions
 -	concert
@@ -9,7 +9,7 @@ LIRI is a command line node app that takes in parameters and gives you back data
 -	random-file
 
 ## Getting Started: 
-Download the "images" folder to visualize the each command. 
+Download the "images" folder to visualize each command. 
 This will allow you to better see how LIRI works with each given command. 
 
 
@@ -22,7 +22,7 @@ This will search the Bands in Town Artist Events API for an artist and render th
 
 -	Name of the venue
 -	Venue location
--	Date of the Event (use moment to format this as "MM/DD/YYYY")
+-	Date of the Event (used moment to format this as "MM/DD/YYYY")
 
 ## spotify: 
 
@@ -68,4 +68,4 @@ It should run Spotify for “Time Of Our Lives”.
 * OMDB API
 * Bands In Town API
 
-# LIRI Bot - Project Made by: Muhammad Ali.
+# LIRI Bot - Project Made by Muhammad Ali
